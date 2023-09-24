@@ -1,0 +1,242 @@
+
+body{
+background-image: url("#");
+}
+.nome{
+    text-align: center;
+    
+}
+
+.capai {
+
+    text-align: center;
+}
+
+.title{
+  background-image: linear-gradient( rgb(47, 49, 50),rgb(0, 0, 0));
+ display: flex;
+}
+#logo0{
+ 
+ height: 80px;
+ border: solid 1px;
+ border-radius: 50px;
+}
+.img1{
+  display: flex;
+  border: solid 10px;
+  margin-top: 1%;
+  margin-left: 5%;
+  margin-right: 5%;
+  background-color: rgb(88, 91, 98);
+  margin-bottom: 1%;
+  border-style: ridge;
+ 
+}
+
+.text1,.text2{
+ font-size: 200%;
+ color: rgb(15, 20, 39);
+ padding: 2%;
+ color: white;
+ 
+}
+.img2{
+    display: flex;
+    border: solid 10px;
+    margin-top: 1%;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: rgb(88, 91, 98) ;
+    border-style: ridge;
+  
+}
+#nome_sobre{
+font-size: 34px;
+color: white;
+text-align: justify;
+margin-right: 20px;
+margin-left: 20px;
+
+
+
+}
+
+.naomaltrate{
+  border: solid 5px;
+  border-color: rgb(0, 0, 0);
+  border-style: outset;
+  background-color: rgb(17, 16, 16);}
+ 
+.nomen{
+  text-align: center;
+  font-size: 30px;
+  color: white;
+
+
+}
+.nomen:hover{
+ background-color: white;
+ color: black;
+ margin-left: 37%;
+ margin-right: 37%;
+ border-radius: 100px;
+}
+#sobre2{
+  display: flex;
+  border: solid 5px;
+  background-color: rgb(30, 34, 51);
+  border-color: white;
+  margin-top: 1%;
+  
+}
+
+
+#addc{
+
+ margin-bottom: 1%;
+  margin-top: 1%;
+  border: solid 10px;
+  border-color: rgb(94, 94, 145);
+  border-style: inset;
+  border-radius: 10px;
+  background-color: rgb(236, 236, 236);
+ 
+}
+#nomesobre{
+ text-align: justify;
+ font-size: 189%;
+ border: solid 1px;
+ border-top: 6px;
+ border-bottom: 6px;
+ padding: 1%;
+  
+}
+.buttons{
+  text-align: center;
+  margin-left: 20%;
+  display: flex;
+  cursor: pointer col-resize;
+  
+}
+
+.b1,.b2,.b3,.b4{
+  margin-left: 10px;
+  font-size: large;
+  border-radius: 20px;
+  height: 50px;
+  margin-top: 15px;
+  
+  
+  
+}
+.iconlogo{
+  margin-left: 50px;
+}
+.b1:hover{
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  background-color: rgb(34, 34, 39);
+  border-color: white ;
+  border: solid 3px;
+}
+.b2:hover{
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  background-color: rgb(34, 34, 39);
+  border-color: white ;
+  border: solid 3px;
+}
+.b3:hover{
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  background-color: rgb(34, 34, 39);
+  border-color: white ;
+  border: solid 3px;
+}
+.b4:hover{
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  background-color: rgb(34, 34, 39);
+  border-color: white ;
+  border: solid 3px;
+}
+
+/* INFORMACOES DE CONTATO */
+.contatoh{
+
+}
+.topoc{
+ display: flex;
+ border: solid 1px;
+ background-color: black;
+ margin-bottom: 5%;
+}
+.titlec{
+   margin-left: 17%;
+   border-radius: 20px;
+   font-family: Helvetica;
+   color: white;
+   font-size: 130%;
+   
+   
+   
+  }
+  .titlec3:hover{
+    background-color: white;
+    color: black;
+    border: solid 1px;
+    border-radius: 5px;
+    border-color: rgb(126, 122, 122);
+  
+  }
+
+
+.gpsy{
+  border: solid 1px;
+}
+.gps{
+  width: 50%;
+  margin-left: 30%;
+}
+
+#cct{
+  display: flex;
+  
+}
+.c1,.c2,.c3.c3{
+  margin-left: 10%;
+  margin-bottom: 5%;
+  
+}
+.op{
+  object-fit: contain;
+  background-color: white;
+}
+
+/* sobre o horario de atendimento */
+.lateral{
+  
+  text-align: center;
+ margin-top: 5%;
+ margin-bottom: 5%;
+ text-align: center;
+ margin-left: 36%;
+ margin-right: 35%;
+ background-color: darkslateblue;
+ border: solid 10px;
+ border-style: outset;
+
+ 
+}
+thead th{
+ border: solid 2px;
+ border-style: outset ;
+}
+tbody td{
+  border: solid 2px;
+  border-style: outset ;
+}
+table th,tr{
+  color: white;
+}
